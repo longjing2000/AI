@@ -1,5 +1,7 @@
 # AI
 
+
+
 ## Swift通用机器学习资源
 
 - Swift AI – Swift语言编写的高度优化的人工智能和机器学习；
@@ -9,11 +11,11 @@
 
 
 
-**iOS**中的矩阵和向量运算 
+## iOS中的矩阵和向量运算 
 
-**Swift**元组（**tuples**）及iOS库Accelerate
-
-****
+涉及Swift元组（tuples）及iOS库Accelerate
 
 [IOS中的矩阵和向量运算 - 黄文臣的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/Hello_Hwc/article/details/41307553)
+
+
 
